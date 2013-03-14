@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1024"
+	maxImageHeight="768"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundColor="rgba(255,255,255,1)"
+	galleryHeight="100%"
+
+>
+  <image imageURL="images/459198_10100168653349741_1294918536_o.jpg"
+	thumbURL="thumbs/459198_10100168653349741_1294918536_o.jpg"
+	linkURL="images/459198_10100168653349741_1294918536_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/GOPR4621.JPG"
+	thumbURL="thumbs/GOPR4621.JPG"
+	linkURL="images/GOPR4621.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/175907_10100339084000351_1501938663_o.jpg"
+	thumbURL="thumbs/175907_10100339084000351_1501938663_o.jpg"
+	linkURL="images/175907_10100339084000351_1501938663_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Dean by Ewan Cowie.JPG"
+	thumbURL="thumbs/Dean by Ewan Cowie.JPG"
+	linkURL="images/Dean by Ewan Cowie.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/243772_10100269161455691_2039993989_o.jpg"
+	thumbURL="thumbs/243772_10100269161455691_2039993989_o.jpg"
+	linkURL="images/243772_10100269161455691_2039993989_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/740652_10100395423834871_2006765702_o.jpg"
+	thumbURL="thumbs/740652_10100395423834871_2006765702_o.jpg"
+	linkURL="images/740652_10100395423834871_2006765702_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/402803_996604265511_1588635548_n.jpg"
+	thumbURL="thumbs/402803_996604265511_1588635548_n.jpg"
+	linkURL="images/402803_996604265511_1588635548_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/384157_996603881281_172898982_n.jpg"
+	thumbURL="thumbs/384157_996603881281_172898982_n.jpg"
+	linkURL="images/384157_996603881281_172898982_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/378589_996604095851_920319515_n.jpg"
+	thumbURL="thumbs/378589_996604095851_920319515_n.jpg"
+	linkURL="images/378589_996604095851_920319515_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/409006_996604644751_89800952_n.jpg"
+	thumbURL="thumbs/409006_996604644751_89800952_n.jpg"
+	linkURL="images/409006_996604644751_89800952_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/740954_10100394781472171_1360214273_o.jpg"
+	thumbURL="thumbs/740954_10100394781472171_1360214273_o.jpg"
+	linkURL="images/740954_10100394781472171_1360214273_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/458716_10100270911403781_1829235206_o.jpg"
+	thumbURL="thumbs/458716_10100270911403781_1829235206_o.jpg"
+	linkURL="images/458716_10100270911403781_1829235206_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/330958_929181541191_1548819391_o.jpg"
+	thumbURL="thumbs/330958_929181541191_1548819391_o.jpg"
+	linkURL="images/330958_929181541191_1548819391_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/219239_836150600941_4180638_o.jpg"
+	thumbURL="thumbs/219239_836150600941_4180638_o.jpg"
+	linkURL="images/219239_836150600941_4180638_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/468699_10100268594881111_1063692383_o.jpg"
+	thumbURL="thumbs/468699_10100268594881111_1063692383_o.jpg"
+	linkURL="images/468699_10100268594881111_1063692383_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/209383_836149069011_5305856_o.jpg"
+	thumbURL="thumbs/209383_836149069011_5305856_o.jpg"
+	linkURL="images/209383_836149069011_5305856_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/177724_10100270911184221_2113216522_o.jpg"
+	thumbURL="thumbs/177724_10100270911184221_2113216522_o.jpg"
+	linkURL="images/177724_10100270911184221_2113216522_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/460686_10100168654931571_605142120_o.jpg"
+	thumbURL="thumbs/460686_10100168654931571_605142120_o.jpg"
+	linkURL="images/460686_10100168654931571_605142120_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

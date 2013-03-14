@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1024"
+	maxImageHeight="768"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundColor="rgba(255,255,255,1)"
+
+>
+  <image imageURL="images/marcin_lena.jpg"
+	thumbURL="thumbs/marcin_lena.jpg"
+	linkURL="images/marcin_lena.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/278121_890265813621_3887279_o.jpg"
+	thumbURL="thumbs/278121_890265813621_3887279_o.jpg"
+	linkURL="images/278121_890265813621_3887279_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/373901_996606411211_2065638619_n.jpg"
+	thumbURL="thumbs/373901_996606411211_2065638619_n.jpg"
+	linkURL="images/373901_996606411211_2065638619_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/474204_10100181450454241_1559097835_o.jpg"
+	thumbURL="thumbs/474204_10100181450454241_1559097835_o.jpg"
+	linkURL="images/474204_10100181450454241_1559097835_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/458624_10100171066543681_1119890185_o.jpg"
+	thumbURL="thumbs/458624_10100171066543681_1119890185_o.jpg"
+	linkURL="images/458624_10100171066543681_1119890185_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/GOPR6010.JPG"
+	thumbURL="thumbs/GOPR6010.JPG"
+	linkURL="images/GOPR6010.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/461603_10100298136489491_2044249464_o.jpg"
+	thumbURL="thumbs/461603_10100298136489491_2044249464_o.jpg"
+	linkURL="images/461603_10100298136489491_2044249464_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/457450_10100262598118671_956115742_o.jpg"
+	thumbURL="thumbs/457450_10100262598118671_956115742_o.jpg"
+	linkURL="images/457450_10100262598118671_956115742_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/411444_10100290340582551_1666864695_o.jpg"
+	thumbURL="thumbs/411444_10100290340582551_1666864695_o.jpg"
+	linkURL="images/411444_10100290340582551_1666864695_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/GOPR7517.JPG"
+	thumbURL="thumbs/GOPR7517.JPG"
+	linkURL="images/GOPR7517.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

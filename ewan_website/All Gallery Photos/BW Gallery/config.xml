@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1024"
+	maxImageHeight="768"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundColor="rgba(255,255,255,1)"
+
+>
+  <image imageURL="images/smlGOPR7466.JPG"
+	thumbURL="thumbs/smlGOPR7466.JPG"
+	linkURL="images/smlGOPR7466.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/smlGOPR4716.JPG"
+	thumbURL="thumbs/smlGOPR4716.JPG"
+	linkURL="images/smlGOPR4716.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/smlGOPR1392.JPG"
+	thumbURL="thumbs/smlGOPR1392.JPG"
+	linkURL="images/smlGOPR1392.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/smlGOPR0958.JPG"
+	thumbURL="thumbs/smlGOPR0958.JPG"
+	linkURL="images/smlGOPR0958.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/sml615628_10100339083127101_1832202228_o.jpg"
+	thumbURL="thumbs/sml615628_10100339083127101_1832202228_o.jpg"
+	linkURL="images/sml615628_10100339083127101_1832202228_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/sml614669_10100284937076221_1848563407_o.jpg"
+	thumbURL="thumbs/sml614669_10100284937076221_1848563407_o.jpg"
+	linkURL="images/sml614669_10100284937076221_1848563407_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/sml466185_10100187487466021_943254518_o.jpg"
+	thumbURL="thumbs/sml466185_10100187487466021_943254518_o.jpg"
+	linkURL="images/sml466185_10100187487466021_943254518_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/sml329486_10100290342997711_708357775_o.jpg"
+	thumbURL="thumbs/sml329486_10100290342997711_708357775_o.jpg"
+	linkURL="images/sml329486_10100290342997711_708357775_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/sml325806_10100290342254201_184772928_o.jpg"
+	thumbURL="thumbs/sml325806_10100290342254201_184772928_o.jpg"
+	linkURL="images/sml325806_10100290342254201_184772928_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/sml286027_892686652241_8323234_o.jpg"
+	thumbURL="thumbs/sml286027_892686652241_8323234_o.jpg"
+	linkURL="images/sml286027_892686652241_8323234_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/sml280365_10100290342119471_672282389_o.jpg"
+	thumbURL="thumbs/sml280365_10100290342119471_672282389_o.jpg"
+	linkURL="images/sml280365_10100290342119471_672282389_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/sml277965_10100290340148421_492351611_o.jpg"
+	thumbURL="thumbs/sml277965_10100290340148421_492351611_o.jpg"
+	linkURL="images/sml277965_10100290340148421_492351611_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/sml277684_880142675471_8265090_o.jpg"
+	thumbURL="thumbs/sml277684_880142675471_8265090_o.jpg"
+	linkURL="images/sml277684_880142675471_8265090_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/sml218229_836145940281_5993777_o.jpg"
+	thumbURL="thumbs/sml218229_836145940281_5993777_o.jpg"
+	linkURL="images/sml218229_836145940281_5993777_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/sml177150_10100268595914041_296072495_o.jpg"
+	thumbURL="thumbs/sml177150_10100268595914041_296072495_o.jpg"
+	linkURL="images/sml177150_10100268595914041_296072495_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1024"
+	maxImageHeight="768"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundColor="rgba(255,255,255,1)"
+
+>
+  <image imageURL="images/GOPR7439.JPG"
+	thumbURL="thumbs/GOPR7439.JPG"
+	linkURL="images/GOPR7439.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/339857_945754703441_71392184_o.jpg"
+	thumbURL="thumbs/339857_945754703441_71392184_o.jpg"
+	linkURL="images/339857_945754703441_71392184_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/GOPR7508.JPG"
+	thumbURL="thumbs/GOPR7508.JPG"
+	linkURL="images/GOPR7508.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/412724_10100247066658841_444540626_o.jpg"
+	thumbURL="thumbs/412724_10100247066658841_444540626_o.jpg"
+	linkURL="images/412724_10100247066658841_444540626_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/461749_10100181442839501_416917874_o.jpg"
+	thumbURL="thumbs/461749_10100181442839501_416917874_o.jpg"
+	linkURL="images/461749_10100181442839501_416917874_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/737203_10100392819533911_805541499_o.jpg"
+	thumbURL="thumbs/737203_10100392819533911_805541499_o.jpg"
+	linkURL="images/737203_10100392819533911_805541499_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/326377_10100112910977901_61387379_o.jpg"
+	thumbURL="thumbs/326377_10100112910977901_61387379_o.jpg"
+	linkURL="images/326377_10100112910977901_61387379_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/414286_10100109482563471_31294385_o (2).jpg"
+	thumbURL="thumbs/414286_10100109482563471_31294385_o (2).jpg"
+	linkURL="images/414286_10100109482563471_31294385_o (2).jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC00508.JPG"
+	thumbURL="thumbs/DSC00508.JPG"
+	linkURL="images/DSC00508.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4810.JPG"
+	thumbURL="thumbs/IMG_4810.JPG"
+	linkURL="images/IMG_4810.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Lillo sunset.jpg"
+	thumbURL="thumbs/Lillo sunset.jpg"
+	linkURL="images/Lillo sunset.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/GOPR2740_2 crop.jpg"
+	thumbURL="thumbs/GOPR2740_2 crop.jpg"
+	linkURL="images/GOPR2740_2 crop.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_6505.JPG"
+	thumbURL="thumbs/IMG_6505.JPG"
+	linkURL="images/IMG_6505.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

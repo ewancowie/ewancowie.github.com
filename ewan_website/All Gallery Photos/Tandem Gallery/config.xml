@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1024"
+	maxImageHeight="768"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundColor="rgba(255,255,255,1)"
+	galleryTitle=""
+	galleryWidth="100%"
+	showOpenButton="true"
+	showExpandButton="true"
+	showThumbsButton="true"
+
+>
+  <image imageURL="images/459617_10100181444191791_1129161432_o.jpg"
+	thumbURL="thumbs/459617_10100181444191791_1129161432_o.jpg"
+	linkURL="images/459617_10100181444191791_1129161432_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/471505_10100247065835491_1637149119_o.jpg"
+	thumbURL="thumbs/471505_10100247065835491_1637149119_o.jpg"
+	linkURL="images/471505_10100247065835491_1637149119_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/416463_10100181448263631_797753516_o.jpg"
+	thumbURL="thumbs/416463_10100181448263631_797753516_o.jpg"
+	linkURL="images/416463_10100181448263631_797753516_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/460049_10100180275024811_1295541263_o.jpg"
+	thumbURL="thumbs/460049_10100180275024811_1295541263_o.jpg"
+	linkURL="images/460049_10100180275024811_1295541263_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/473883_10100181440584021_912200274_o.jpg"
+	thumbURL="thumbs/473883_10100181440584021_912200274_o.jpg"
+	linkURL="images/473883_10100181440584021_912200274_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/469847_10100181449211731_540444686_o.jpg"
+	thumbURL="thumbs/469847_10100181449211731_540444686_o.jpg"
+	linkURL="images/469847_10100181449211731_540444686_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/472680_10100246749499431_2112801922_o.jpg"
+	thumbURL="thumbs/472680_10100246749499431_2112801922_o.jpg"
+	linkURL="images/472680_10100246749499431_2112801922_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/460160_10100163224015171_339996174_o.jpg"
+	thumbURL="thumbs/460160_10100163224015171_339996174_o.jpg"
+	linkURL="images/460160_10100163224015171_339996174_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/458902_10100181059647421_1608375002_o.jpg"
+	thumbURL="thumbs/458902_10100181059647421_1608375002_o.jpg"
+	linkURL="images/458902_10100181059647421_1608375002_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/410914_10100181447305551_1660045165_o.jpg"
+	thumbURL="thumbs/410914_10100181447305551_1660045165_o.jpg"
+	linkURL="images/410914_10100181447305551_1660045165_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/335915_10100262093609711_1222199826_o.jpg"
+	thumbURL="thumbs/335915_10100262093609711_1222199826_o.jpg"
+	linkURL="images/335915_10100262093609711_1222199826_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/219618_836178744541_2855154_o.jpg"
+	thumbURL="thumbs/219618_836178744541_2855154_o.jpg"
+	linkURL="images/219618_836178744541_2855154_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/474653_10100181448672811_2051434788_o.jpg"
+	thumbURL="thumbs/474653_10100181448672811_2051434788_o.jpg"
+	linkURL="images/474653_10100181448672811_2051434788_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/GOPR6635.JPG"
+	thumbURL="thumbs/GOPR6635.JPG"
+	linkURL="images/GOPR6635.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

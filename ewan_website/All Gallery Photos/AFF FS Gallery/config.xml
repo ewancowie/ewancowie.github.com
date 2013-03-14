@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1024"
+	maxImageHeight="768"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundColor="rgba(255,255,255,1)"
+
+>
+  <image imageURL="images/smlGOPR6734.JPG"
+	thumbURL="thumbs/smlGOPR6734.JPG"
+	linkURL="images/smlGOPR6734.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/smlGOPR2404.JPG"
+	thumbURL="thumbs/smlGOPR2404.JPG"
+	linkURL="images/smlGOPR2404.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/smlGOPR1387.JPG"
+	thumbURL="thumbs/smlGOPR1387.JPG"
+	linkURL="images/smlGOPR1387.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/smlGOPR1377.JPG"
+	thumbURL="thumbs/smlGOPR1377.JPG"
+	linkURL="images/smlGOPR1377.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/smlGOPR1022.JPG"
+	thumbURL="thumbs/smlGOPR1022.JPG"
+	linkURL="images/smlGOPR1022.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/smlGOPR0843.JPG"
+	thumbURL="thumbs/smlGOPR0843.JPG"
+	linkURL="images/smlGOPR0843.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/smlGOPR0742.JPG"
+	thumbURL="thumbs/smlGOPR0742.JPG"
+	linkURL="images/smlGOPR0742.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/sml413269_10100290339394931_489919482_o.jpg"
+	thumbURL="thumbs/sml413269_10100290339394931_489919482_o.jpg"
+	linkURL="images/sml413269_10100290339394931_489919482_o.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
