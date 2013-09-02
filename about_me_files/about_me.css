@@ -97,9 +97,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_630_50 {
-    position: relative;
-}
 .style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
@@ -111,6 +108,9 @@
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
+}
+.style_External_568_238 {
+    position: relative;
 }
 .paragraph_style_4 {
     color: rgb(88, 77, 77);
@@ -138,10 +138,10 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_465_218 {
+.style_External_769_799 {
     position: relative;
 }
-.style_External_691_779 {
+.style_External_771_50 {
     position: relative;
 }
 .Body {
@@ -191,13 +191,13 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_630_50 {
+.Normal_External_771_50 {
     position: relative;
 }
-.Normal_External_465_218 {
+.Normal_External_568_238 {
     position: relative;
 }
-.Normal_External_691_779 {
+.Normal_External_769_799 {
     position: relative;
 }
 .Title {
